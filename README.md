@@ -14,6 +14,7 @@ Changes (system-wide):
 - Better alignment/tweaking of some UI elements;
 - No more UI border blocking the lower-right part of videos;
 - Corrected spelling "Favorites games" -> "Favorite Games";
+
 Changes (portable systems themes):
 - Added support for Pokemon Mini and Watara Supervision systems;
 - Brought back some system posters from EpicNoir;
