@@ -1,0 +1,27 @@
+<theme>
+<formatVersion>7</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="basic, detailed, video, grid">
+  <text name="nameLabel" extra="true">
+    <text>Capcom System</text>
+  </text>
+</view>    
+
+<view name="system">
+  <text name="sys_line1" extra="true">
+    <text>Capcom</text>
+
+  </text>
+  <text name="sys_line2" extra="true">
+    <text>Capcom System</text>
+
+</text>
+  <text name="shortdescription" extra="true">
+   <text>Cion operated cabinet</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>Coin-operated entertainment machines</text>
+  </text>
+ </view>
+</theme>
